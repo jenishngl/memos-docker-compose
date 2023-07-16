@@ -1,2 +1,2 @@
-# memos-docker-compose
+# Memos Docker Compose
 Memos docker compose
